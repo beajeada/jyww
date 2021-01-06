@@ -1,0 +1,22 @@
+h1 {
+	text-align:center;
+	font-size:35px;
+	padding:30px;
+	padding-bottom:70px;
+	margin:0px;
+	background-color:#FF8000;
+}
+body {
+		margin:0px;
+		background-color:#F7BE81;
+}
+#A {
+		display:grid;
+		grid-template-columns:200px 1fr;
+}
+#B {
+		border-right:5px solid #FF8000;
+}
+#C {
+		text-align:center;
+}
